@@ -1,4 +1,4 @@
-name: Vib Build
+name: Xence
 
 on:
   push:
@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
 
 env:
-  CUSTOM_IMAGE_NAME: custom
+  CUSTOM_IMAGE_NAME: xence
   BUILDX_NO_DEFAULT_ATTESTATIONS: 1
 
 jobs:
