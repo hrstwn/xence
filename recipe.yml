@@ -26,8 +26,8 @@ stages:
   - name: example-commands # Sample module demonstrating the Shell module with custom commands
     type: shell
     commands:
-    - apt install ./includes.container/deb-pkgs/xencelabs1.3.4-26.deb
-    - echo "Hurray"
+    - sudo dpkg -i ./includes.container/deb-pkgs/xencelabs1.3.4-26.deb
+    - echo 'Hurray'
 
   # Put your custom actions above this comment
 
