@@ -1,0 +1,703 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TemplateLists version="1.0">
+<RemoteTemplate>
+ <Remote name="" rotation="">
+	<Default>
+	 <K>
+		<K1 Show="1" Actid="2" id="2" Motid="1">2|*#Undo|Ctrl+Z|29:37+44:52</K1>
+		<K2 Show="1" Actid="2" id="2" Motid="2">2|*#Redo|Ctrl+Y|29:37+21:29</K2>
+		<K3 Show="1" Actid="2" id="2" Motid="3">2|*#Copy|Ctrl+C|29:37+46:54</K3>
+		<K4 Show="1" Actid="2" id="2" Motid="4">2|*#Paste|Ctrl+V|29:37+47:55</K4>
+		<K5 Show="1" Actid="2" id="2" Motid="5">2|Shift|Shift|42:50</K5>
+		<K6 Show="1" Actid="2" id="2" Motid="6">2|Control|Ctrl|29:37</K6>
+		<K7 Show="1" Actid="2" id="2" Motid="7">2|Alt|Alt|56:64</K7>
+		<K8 Show="1" Actid="2" id="2" Motid="8">2|*#Space|Space|57:65</K8>
+		<K9 Show="1" Actid="0" id="0" Motid="9"></K9>
+		<K10 Show="1" Actid="0" id="0" Motid="10"></K10>
+      </K>
+		<R wid="1">
+			<W1 id="1" color="6" enable="1" colorbright="2" speed="3" orderid="1" name=""/>
+			<W2 id="2" color="7" enable="1" colorbright="2" speed="3" orderid="2" name=""/>
+			<W3 id="3" color="5" enable="1" colorbright="2" speed="3" orderid="3" name=""/>
+			<W4 id="4" color="4" enable="1" colorbright="2" speed="3" orderid="4" name="">4|*#Brush Size|[|]|26:34|27:35</W4>
+		</R>
+	 </Default>
+    <CommonAPP>
+        <K>
+          <Set enable="1" id="0" name="">
+            <K1 Actid="2" id="2">2|*#Undo|Ctrl+Z|29:37+44:52</K1>
+            <K2 Actid="2" id="2">2|*#Redo|Ctrl+Y|29:37+21:29</K2>
+            <K3 Actid="2" id="2">2|*#Copy|Ctrl+C|29:37+46:54</K3>
+            <K4 Actid="2" id="2">2|*#Paste|Ctrl+V|29:37+47:55</K4>
+            <K5 Actid="2" id="2">2|Shift|Shift|42:50</K5>
+            <K6 Actid="2" id="2">2|Control|Ctrl|29:37</K6>
+            <K7 Actid="2" id="2">2|Alt|Alt|56:64</K7>
+            <K8 Actid="2" id="2">2|*#Space|Space|57:65</K8>
+          </Set>
+          <Set enable="0" id="1" name="">
+            <K1 Actid="2" id="2">2|*#Undo|Ctrl+Z|29:37+44:52</K1>
+            <K2 Actid="2" id="2">2|*#Redo|Ctrl+Y|29:37+21:29</K2>
+            <K3 Actid="2" id="2">2|*#Copy|Ctrl+C|29:37+46:54</K3>
+            <K4 Actid="2" id="2">2|*#Paste|Ctrl+V|29:37+47:55</K4>
+            <K5 Actid="2" id="2">2|Shift|Shift|42:50</K5>
+            <K6 Actid="2" id="2">2|Control|Ctrl|29:37</K6>
+            <K7 Actid="2" id="2">2|Alt|Alt|56:64</K7>
+            <K8 Actid="2" id="2">2|*#Space|Space|57:65</K8>
+          </Set>
+          <Set enable="0" id="2" name="">
+            <K1 Actid="2" id="2">2|*#Undo|Ctrl+Z|29:37+44:52</K1>
+            <K2 Actid="2" id="2">2|*#Redo|Ctrl+Y|29:37+21:29</K2>
+            <K3 Actid="2" id="2">2|*#Copy|Ctrl+C|29:37+46:54</K3>
+            <K4 Actid="2" id="2">2|*#Paste|Ctrl+V|29:37+47:55</K4>
+            <K5 Actid="2" id="2">2|Shift|Shift|42:50</K5>
+            <K6 Actid="2" id="2">2|Control|Ctrl|29:37</K6>
+            <K7 Actid="2" id="2">2|Alt|Alt|56:64</K7>
+            <K8 Actid="2" id="2">2|*#Space|Space|57:65</K8>
+          </Set>
+          <Set enable="0" id="3" name="">
+            <K1 Actid="2" id="2">2|*#Undo|Ctrl+Z|29:37+44:52</K1>
+            <K2 Actid="2" id="2">2|*#Redo|Ctrl+Y|29:37+21:29</K2>
+            <K3 Actid="2" id="2">2|*#Copy|Ctrl+C|29:37+46:54</K3>
+            <K4 Actid="2" id="2">2|*#Paste|Ctrl+V|29:37+47:55</K4>
+            <K5 Actid="2" id="2">2|Shift|Shift|42:50</K5>
+            <K6 Actid="2" id="2">2|Control|Ctrl|162:29</K6>
+            <K7 Actid="2" id="2">2|Alt|Alt|56:64</K7>
+            <K8 Actid="2" id="2">2|*#Space|Space|57:65</K8>
+          </Set>
+          <Set enable="0" id="4" name="">
+            <K1 Actid="2" id="2">2|*#Undo|Ctrl+Z|29:37+44:52</K1>
+            <K2 Actid="2" id="2">2|*#Redo|Ctrl+Y|29:37+21:29</K2>
+            <K3 Actid="2" id="2">2|*#Copy|Ctrl+C|29:37+46:54</K3>
+            <K4 Actid="2" id="2">2|*#Paste|Ctrl+V|29:37+47:55</K4>
+            <K5 Actid="2" id="2">2|Shift|Shift|42:50</K5>
+            <K6 Actid="2" id="2">2|Control|Ctrl|29:37</K6>
+            <K7 Actid="2" id="2">2|Alt|Alt|56:64</K7>
+            <K8 Actid="2" id="2">2|*#Space|Space|57:65</K8>
+          </Set>
+		 </K>
+		<R wid="1">
+			<W1 id="1" color="6" enable="1" colorbright="2" speed="3" orderid="1" name=""/>
+			<W2 id="2" color="7" enable="1" colorbright="2" speed="3" orderid="2" name=""/>
+			<W3 id="3" color="5" enable="1" colorbright="2" speed="3" orderid="3" name=""/>
+			<W4 id="4" color="4" enable="1" colorbright="2" speed="3" orderid="4" name="">4|*#Brush Size|[|]|26:34|27:35</W4>
+		</R>
+    </CommonAPP>
+	<Apps>
+    </Apps>
+  </Remote>
+  <App name="0" id="0">
+        <path/>
+        <K id="0">
+		  <Set enable="1" id="0" name="">
+			<K1 id="0" Actid="1"/>
+			<K2 id="0" Actid="1"/>
+			<K3 id="0" Actid="1"/>
+			<K4 id="0" Actid="1"/>
+			<K5 id="0" Actid="1"/>
+			<K6 id="0" Actid="1"/>
+			<K7 id="0" Actid="1"/>
+			<K8 id="0" Actid="1"/>
+		  </Set>
+		   <Set enable="0" id="1" name="">
+			<K1 id="0" Actid="1"/>
+			<K2 id="0" Actid="1"/>
+			<K3 id="0" Actid="1"/>
+			<K4 id="0" Actid="1"/>
+			<K5 id="0" Actid="1"/>
+			<K6 id="0" Actid="1"/>
+			<K7 id="0" Actid="1"/>
+			<K8 id="0" Actid="1"/>
+		  </Set>
+		   <Set enable="0" id="2" name="">
+			<K1 id="0" Actid="1"/>
+			<K2 id="0" Actid="1"/>
+			<K3 id="0" Actid="1"/>
+			<K4 id="0" Actid="1"/>
+			<K5 id="0" Actid="1"/>
+			<K6 id="0" Actid="1"/>
+			<K7 id="0" Actid="1"/>
+			<K8 id="0" Actid="1"/>
+		  </Set>
+		   <Set enable="0" id="3" name="">
+			<K1 id="0" Actid="1"/>
+			<K2 id="0" Actid="1"/>
+			<K3 id="0" Actid="1"/>
+			<K4 id="0" Actid="1"/>
+			<K5 id="0" Actid="1"/>
+			<K6 id="0" Actid="1"/>
+			<K7 id="0" Actid="1"/>
+			<K8 id="0" Actid="1"/>
+		  </Set>
+		  <Set enable="0" id="4" name="">
+			<K1 id="0" Actid="1"/>
+			<K2 id="0" Actid="1"/>
+			<K3 id="0" Actid="1"/>
+			<K4 id="0" Actid="1"/>
+			<K5 id="0" Actid="1"/>
+			<K6 id="0" Actid="1"/>
+			<K7 id="0" Actid="1"/>
+			<K8 id="0" Actid="1"/>
+		  </Set>
+        </K>
+        <R id="0">
+          <W1 id="0" color="6" enable="1" colorbright="2" speed="3" orderid="1" name=""/>
+          <W2 id="0" color="7" enable="1" colorbright="2" speed="3" orderid="2" name=""/>
+          <W3 id="0" color="5" enable="1" colorbright="2" speed="3" orderid="3" name=""/>
+          <W4 id="0" color="4" enable="1" colorbright="2" speed="3" orderid="4" name=""/>
+        </R>
+  </App>
+</RemoteTemplate>
+<TabletTemplate> 
+  <Tablet>
+    <DeviceInfo>
+      <DeviceRingNum>0</DeviceRingNum>
+      <DeviceKeyNum>3</DeviceKeyNum>
+      <DeviceControl>1</DeviceControl>
+    </DeviceInfo>
+    <Common>
+      <ScreenMapping id="0">
+        <SX>0</SX>
+        <SY>0</SY>
+        <SW>0</SW>
+        <SH>0</SH>
+      </ScreenMapping>
+      <TabletPannel Orientation="0">
+        <TX>0</TX>
+        <TY>0</TY>
+        <TW>0</TW>
+        <TH>0</TH>
+      </TabletPannel>
+      <DisableInfo>0</DisableInfo>
+      <DisableQuickKey>0</DisableQuickKey>
+      <DisablePressure>0</DisablePressure>
+	  <LargePen_RelativeCoords Speed="5">0</LargePen_RelativeCoords>
+	  <ThinPen_RelativeCoords Speed="5">0</ThinPen_RelativeCoords>
+	  <LargePen_DisablePenTilt>0</LargePen_DisablePenTilt>
+	  <ThinPen_DisablePenTilt>0</ThinPen_DisablePenTilt>
+	  <LargePen_DisablePenButtons>0</LargePen_DisablePenButtons>
+	  <ThinPen_DisablePenButtons>0</ThinPen_DisablePenButtons>
+	  <LargePen_DisableTipClick>0</LargePen_DisableTipClick>
+	  <ThinPen_DisableTipClick>0</ThinPen_DisableTipClick>
+      <PictureFiles>
+            <T_0 W="166" H="94" X="39" Y="110"/>
+            <T_1 W="166" H="94" X="39" Y="110"/>
+            <T_2 W="166" H="94" X="39" Y="110"/>
+            <T_3 W="166" H="94" X="39" Y="110"/>
+      </PictureFiles>
+    </Common>
+	<DefaultSetting>
+		<LargePen>
+			<PenBtn1 Actid="102" id="1"/>
+			<PenBtn2 Actid="104" id="1"/>
+			<PenBtn3 Actid="2" id="2">2|*#Undo|Ctrl+Z|29:37+44:52</PenBtn3>
+			<PenBtn0 Actid="7" id="7"/>
+			<Pen p0="0" py="0.5" p2="1" px="0.5"/>
+			<Erase p0="0" py="0.5" p2="1" px="0.5"/>		
+		</LargePen>
+		<ThinPen>
+			<PenBtn2 Actid="102" id="1"/>
+			<PenBtn3 Actid="104" id="1"/>
+			<PenBtn0 Actid="7" id="7"/>
+			<Pen p0="0" py="0.5" p2="1" px="0.5"/>
+			<Erase p0="0" py="0.5" p2="1" px="0.5"/>		
+		</ThinPen>
+		<K>
+			<K1 Motid="1" Show="1" Actid="404" id="4"/>
+			<K2 Motid="2" Show="1" Actid="405" id="4"/>
+			<K3 Motid="3" Show="1" Actid="402" id="4"/>
+		</K>
+		<color id="5" colorbright="2"/>
+		<TablePC>1</TablePC>
+	</DefaultSetting>
+    <CommonAPP>
+      <LargePen>
+		<PenBtn1 Actid="102" id="1"/>
+		<PenBtn2 Actid="104" id="1"/>
+		<PenBtn3 Actid="2" id="2">2|*#Undo|Ctrl+Z|29:37+44:52</PenBtn3>
+		<PenBtn0 Actid="7" id="7"/>
+        <Pen p0="0" px="0.5" py="0.5" p2="1"></Pen>
+		<Erase p0="0" px="0.5" py="0.5" p2="1"></Erase>      
+      </LargePen>
+	  <ThinPen>
+		<PenBtn2 Actid="102" id="1"/>
+		<PenBtn3 Actid="104" id="1"/>
+		<PenBtn0 Actid="7" id="7"/>
+        <Pen p0="0" py="0.5" p2="1" px="0.5"/>
+		<Erase p0="0" py="0.5" p2="1" px="0.5"/>
+      </ThinPen>
+      <K>
+          <K1 Show="1" Actid="404" id="4" Motid="1"/>
+          <K2 Show="1" Actid="405" id="4" Motid="2"/>
+          <K3 Show="1" Actid="402" id="4" Motid="3"/>
+      </K>
+	  <color id="5" colorbright="2"/>
+	  <TablePC>1</TablePC>
+    </CommonAPP>
+    <Apps>
+    </Apps>
+  </Tablet>
+  <App name="0" id="0">
+        <path/>
+		<LargePen>
+			<PenBtn1 Actid="102" id="1"/>
+			<PenBtn2 Actid="104" id="1"/>
+			<PenBtn3 Actid="2" id="2">2|*#Undo|Ctrl+Z|29:37+44:52</PenBtn3>
+			<PenBtn0 Actid="7" id="7"/>
+			<Pen p0="0" py="0.5" p2="1" px="0.5"/>
+			<Erase p0="0" py="0.5" p2="1" px="0.5"/>		
+		</LargePen>
+		<ThinPen>
+			<PenBtn2 Actid="102" id="1"/>
+			<PenBtn3 Actid="104" id="1"/>
+			<PenBtn0 Actid="7" id="7"/>
+			<Pen p0="0" py="0.5" p2="1" px="0.5"/>
+			<Erase p0="0" py="0.5" p2="1" px="0.5"/>
+		</ThinPen>
+		<K>
+			<K1 Motid="1" Show="1" Actid="404" id="4"/>
+			<K2 Motid="2" Show="1" Actid="405" id="4"/>
+			<K3 Motid="3" Show="1" Actid="402" id="4"/>
+		</K>
+	    <color id="5" colorbright="2"/>
+		<TablePC>1</TablePC>
+   </App>
+  </TabletTemplate>
+  <PenTabletSmallTemplate> 
+  <Tablet>
+    <DeviceInfo>
+      <DeviceRingNum>0</DeviceRingNum>
+      <DeviceKeyNum>3</DeviceKeyNum>
+      <DeviceControl>1</DeviceControl>
+    </DeviceInfo>
+    <Common>
+      <ScreenMapping id="0">
+        <SX>0</SX>
+        <SY>0</SY>
+        <SW>0</SW>
+        <SH>0</SH>
+      </ScreenMapping>
+      <TabletPannel Orientation="0">
+        <TX>0</TX>
+        <TY>0</TY>
+        <TW>0</TW>
+        <TH>0</TH>
+      </TabletPannel>
+      <DisableInfo>0</DisableInfo>
+      <DisableQuickKey>0</DisableQuickKey>
+      <DisablePressure>0</DisablePressure>
+	  <LargePen_RelativeCoords Speed="5">0</LargePen_RelativeCoords>
+	  <ThinPen_RelativeCoords Speed="5">0</ThinPen_RelativeCoords>
+	  <LargePen_DisablePenTilt>0</LargePen_DisablePenTilt>
+	  <ThinPen_DisablePenTilt>0</ThinPen_DisablePenTilt>
+	  <LargePen_DisablePenButtons>0</LargePen_DisablePenButtons>
+	  <ThinPen_DisablePenButtons>0</ThinPen_DisablePenButtons>
+	  <LargePen_DisableTipClick>0</LargePen_DisableTipClick>
+	  <ThinPen_DisableTipClick>0</ThinPen_DisableTipClick>
+      <PictureFiles>
+            <T_0 H="80" X="51" W="141" Y="117"/>
+            <T_1 H="80" X="51" W="141" Y="117"/>
+            <T_2 H="80" X="51" W="141" Y="117"/>
+            <T_3 H="80" X="51" W="141" Y="117"/>
+      </PictureFiles>
+    </Common>
+	<DefaultSetting>
+		<LargePen>
+			<PenBtn1 Actid="102" id="1"/>
+			<PenBtn2 Actid="104" id="1"/>
+			<PenBtn3 Actid="2" id="2">2|*#Undo|Ctrl+Z|29:37+44:52</PenBtn3>
+			<PenBtn0 Actid="7" id="7"/>
+			<Pen p0="0" py="0.5" p2="1" px="0.5"/>
+			<Erase p0="0" py="0.5" p2="1" px="0.5"/>		
+		</LargePen>
+		<ThinPen>
+			<PenBtn2 Actid="102" id="1"/>
+			<PenBtn3 Actid="104" id="1"/>
+			<PenBtn0 Actid="7" id="7"/>
+			<Pen p0="0" py="0.5" p2="1" px="0.5"/>
+			<Erase p0="0" py="0.5" p2="1" px="0.5"/>		
+		</ThinPen>
+		<K>
+			<K1 Motid="1" Show="1" Actid="404" id="4"/>
+			<K2 Motid="2" Show="1" Actid="405" id="4"/>
+			<K3 Motid="3" Show="1" Actid="402" id="4"/>
+		</K>
+		<color id="5" colorbright="2"/>
+		<TablePC>1</TablePC>
+	</DefaultSetting>
+    <CommonAPP>
+      <LargePen>
+		<PenBtn1 Actid="102" id="1"/>
+		<PenBtn2 Actid="104" id="1"/>
+		<PenBtn3 Actid="2" id="2">2|*#Undo|Ctrl+Z|29:37+44:52</PenBtn3>
+		<PenBtn0 Actid="7" id="7"/>
+        <Pen p0="0" px="0.5" py="0.5" p2="1"></Pen>
+		<Erase p0="0" px="0.5" py="0.5" p2="1"></Erase>      
+      </LargePen>
+	  <ThinPen>
+		<PenBtn2 Actid="102" id="1"/>
+		<PenBtn3 Actid="104" id="1"/>
+		<PenBtn0 Actid="7" id="7"/>
+        <Pen p0="0" py="0.5" p2="1" px="0.5"/>
+		<Erase p0="0" py="0.5" p2="1" px="0.5"/>
+      </ThinPen>
+      <K>
+          <K1 Show="1" Actid="404" id="4" Motid="1"/>
+          <K2 Show="1" Actid="405" id="4" Motid="2"/>
+          <K3 Show="1" Actid="402" id="4" Motid="3"/>
+      </K>
+	  <color id="5" colorbright="2"/>
+	  <TablePC>1</TablePC>
+    </CommonAPP>
+    <Apps>
+    </Apps>
+  </Tablet>
+  <App name="0" id="0">
+        <path/>
+		<LargePen>
+			<PenBtn1 Actid="102" id="1"/>
+			<PenBtn2 Actid="104" id="1"/>
+			<PenBtn3 Actid="2" id="2">2|*#Undo|Ctrl+Z|29:37+44:52</PenBtn3>
+			<PenBtn0 Actid="7" id="7"/>
+			<Pen p0="0" py="0.5" p2="1" px="0.5"/>
+			<Erase p0="0" py="0.5" p2="1" px="0.5"/>		
+		</LargePen>
+		<ThinPen>
+			<PenBtn2 Actid="102" id="1"/>
+			<PenBtn3 Actid="104" id="1"/>
+			<PenBtn0 Actid="7" id="7"/>
+			<Pen p0="0" py="0.5" p2="1" px="0.5"/>
+			<Erase p0="0" py="0.5" p2="1" px="0.5"/>
+		</ThinPen>
+		<K>
+			<K1 Motid="1" Show="1" Actid="404" id="4"/>
+			<K2 Motid="2" Show="1" Actid="405" id="4"/>
+			<K3 Motid="3" Show="1" Actid="402" id="4"/>
+		</K>
+	    <color id="5" colorbright="2"/>
+		<TablePC>1</TablePC>
+   </App>
+  </PenTabletSmallTemplate>
+  <DisplayTabletTemplate> 
+  <DisplayTablet name="" notes="">
+    <DeviceInfo>
+      <DeviceRingNum>0</DeviceRingNum>
+      <DeviceKeyNum>3</DeviceKeyNum>
+      <DeviceControl>1</DeviceControl>
+    </DeviceInfo>
+    <Common>
+      <ScreenMapping id="0" DisbleChangeScreen="0">
+        <SX>0</SX>
+        <SY>0</SY>
+        <SW>0</SW>
+        <SH>0</SH>
+      </ScreenMapping>
+      <TabletPannel Orientation="0" id="1">
+        <TX>0</TX>
+        <TY>0</TY>
+        <TW>0</TW>
+        <TH>0</TH>
+      </TabletPannel>
+      <DisableInfo>0</DisableInfo>
+      <DisableQuickKey>0</DisableQuickKey>
+      <DisablePressure>0</DisablePressure>
+	  <LargePen_RelativeCoords Speed="5">0</LargePen_RelativeCoords>
+	  <ThinPen_RelativeCoords Speed="5">0</ThinPen_RelativeCoords>
+	  <LargePen_DisablePenTilt>0</LargePen_DisablePenTilt>
+	  <ThinPen_DisablePenTilt>0</ThinPen_DisablePenTilt>
+	  <LargePen_DisablePenButtons>0</LargePen_DisablePenButtons>
+	  <ThinPen_DisablePenButtons>0</ThinPen_DisablePenButtons>
+	  <LargePen_DisableTipClick>0</LargePen_DisableTipClick>
+	  <ThinPen_DisableTipClick>0</ThinPen_DisableTipClick>
+	  <PenOffSet X="0" Y="0">0</PenOffSet>
+	  <ColorSet mode="">
+		<RGB R="128" G="128" B="128"/>
+		<BCG B="75" C="50" G="2.2"/>
+		<Temperature>2</Temperature>
+		<Notes></Notes>
+	  </ColorSet>
+      <PictureFiles>
+            <T_0 Y="20" H="116" W="206" X="20"/>
+            <T_1 Y="20" H="116" W="206" X="20"/>
+            <T_2 Y="20" H="116" W="206" X="20"/>
+            <T_3 Y="20" H="116" W="206" X="20"/>
+      </PictureFiles>
+	  <SC fKX="1" fYLC="1" fXLC="1" fKY="1"/>
+    </Common>
+	<DefaultSetting>
+		<LargePen>
+			<PenBtn1 Actid="102" id="1"/>
+			<PenBtn2 Actid="104" id="1"/>
+			<PenBtn3 Actid="2" id="2">2|*#Undo|Ctrl+Z|29:37+44:52</PenBtn3>
+			<PenBtn0 Actid="7" id="7"/>
+			<Pen p0="0" py="0.5" p2="1" px="0.5"/>
+			<Erase p0="0" py="0.5" p2="1" px="0.5"/>		
+		</LargePen>
+		<ThinPen>
+			<PenBtn2 Actid="102" id="1"/>
+			<PenBtn3 Actid="104" id="1"/>
+			<PenBtn0 Actid="7" id="7"/>
+			<Pen p0="0" py="0.5" p2="1" px="0.5"/>
+			<Erase p0="0" py="0.5" p2="1" px="0.5"/>		
+		</ThinPen>
+		<K>
+			<K1 Motid="1" Show="1" Actid="404" id="4"/>
+			<K2 Motid="2" Show="1" Actid="405" id="4"/>
+			<K3 Motid="3" Show="1" Actid="409" id="4"/>
+		</K>
+		<color id="5" colorbright="2"/>
+		<TablePC>1</TablePC>
+	</DefaultSetting>
+    <CommonAPP>
+      <LargePen>
+		<PenBtn1 Actid="102" id="1"/>
+		<PenBtn2 Actid="104" id="1"/>
+		<PenBtn3 Actid="2" id="2">2|*#Undo|Ctrl+Z|29:37+44:52</PenBtn3>
+		<PenBtn0 Actid="7" id="7"/>
+        <Pen p0="0" px="0.5" py="0.5" p2="1"></Pen>
+		<Erase p0="0" px="0.5" py="0.5" p2="1"></Erase>      
+      </LargePen>
+	  <ThinPen>
+		<PenBtn2 Actid="102" id="1"/>
+		<PenBtn3 Actid="104" id="1"/>
+		<PenBtn0 Actid="7" id="7"/>
+        <Pen p0="0" py="0.5" p2="1" px="0.5"/>
+		<Erase p0="0" py="0.5" p2="1" px="0.5"/>
+      </ThinPen>
+      <K>
+          <K1 Show="1" Actid="404" id="4" Motid="1"/>
+          <K2 Show="1" Actid="405" id="4" Motid="2"/>
+          <K3 Show="1" Actid="409" id="4" Motid="3"/>
+      </K>
+	  <color id="5" colorbright="2"/>
+	  <TablePC>1</TablePC>
+    </CommonAPP>
+    <Apps>
+    </Apps>
+  </DisplayTablet>
+  <App name="0" id="0">
+        <path/>
+		<LargePen>
+			<PenBtn1 Actid="102" id="1"/>
+			<PenBtn2 Actid="104" id="1"/>
+			<PenBtn3 Actid="2" id="2">2|*#Undo|Ctrl+Z|29:37+44:52</PenBtn3>
+			<PenBtn0 Actid="7" id="7"/>
+			<Pen p0="0" py="0.5" p2="1" px="0.5"/>
+			<Erase p0="0" py="0.5" p2="1" px="0.5"/>		
+		</LargePen>
+		<ThinPen>
+			<PenBtn2 Actid="102" id="1"/>
+			<PenBtn3 Actid="104" id="1"/>
+			<PenBtn0 Actid="7" id="7"/>
+			<Pen p0="0" py="0.5" p2="1" px="0.5"/>
+			<Erase p0="0" py="0.5" p2="1" px="0.5"/>
+		</ThinPen>
+		<K>
+			<K1 Motid="1" Show="1" Actid="404" id="4"/>
+			<K2 Motid="2" Show="1" Actid="405" id="4"/>
+			<K3 Motid="3" Show="1" Actid="409" id="4"/>
+		</K>
+	    <color id="5" colorbright="2"/>
+		<TablePC>1</TablePC>
+   </App>
+  </DisplayTabletTemplate>
+  <Display16Template> 
+  <DisplayTablet name="" notes="">
+    <DeviceInfo>
+      <DeviceRingNum>0</DeviceRingNum>
+      <DeviceKeyNum>0</DeviceKeyNum>
+      <DeviceControl>0</DeviceControl>
+    </DeviceInfo>
+    <Common>
+      <ScreenMapping id="0" DisbleChangeScreen="0">
+        <SX>0</SX>
+        <SY>0</SY>
+        <SW>0</SW>
+        <SH>0</SH>
+      </ScreenMapping>
+      <TabletPannel Orientation="0" id="2">
+        <TX>0</TX>
+        <TY>0</TY>
+        <TW>0</TW>
+        <TH>0</TH>
+      </TabletPannel>
+      <DisableInfo>0</DisableInfo>
+      <DisableQuickKey>1</DisableQuickKey>
+      <DisablePressure>0</DisablePressure>
+	  <LargePen_RelativeCoords Speed="5">0</LargePen_RelativeCoords>
+	  <ThinPen_RelativeCoords Speed="5">0</ThinPen_RelativeCoords>
+	  <LargePen_DisablePenTilt>0</LargePen_DisablePenTilt>
+	  <ThinPen_DisablePenTilt>0</ThinPen_DisablePenTilt>
+	  <LargePen_DisablePenButtons>0</LargePen_DisablePenButtons>
+	  <ThinPen_DisablePenButtons>0</ThinPen_DisablePenButtons>
+	  <LargePen_DisableTipClick>0</LargePen_DisableTipClick>
+	  <ThinPen_DisableTipClick>0</ThinPen_DisableTipClick>
+	  <PenOffSet X="0" Y="0">0</PenOffSet>
+	  <ColorSet mode="">
+		<RGB R="128" G="128" B="128"/>
+		<BCG B="75" C="50" G="2.2"/>
+		<Temperature>2</Temperature>
+		<Notes></Notes>
+	  </ColorSet>
+      <PictureFiles>
+            <T_0 Y="20" H="116" W="206" X="20"/>
+            <T_1 Y="20" H="116" W="206" X="20"/>
+            <T_2 Y="20" H="116" W="206" X="20"/>
+            <T_3 Y="20" H="116" W="206" X="20"/>
+      </PictureFiles>
+	  <SC fKX="1" fYLC="1" fXLC="1" fKY="1"/>
+    </Common>
+	<DefaultSetting>
+		<LargePen>
+			<PenBtn1 Actid="102" id="1"/>
+			<PenBtn2 Actid="104" id="1"/>
+			<PenBtn3 Actid="2" id="2">2|*#Undo|Ctrl+Z|29:37+44:52</PenBtn3>
+			<PenBtn0 Actid="7" id="7"/>
+			<Pen p0="0" py="0.5" p2="1" px="0.5"/>
+			<Erase p0="0" py="0.5" p2="1" px="0.5"/>		
+		</LargePen>
+		<ThinPen>
+			<PenBtn2 Actid="102" id="1"/>
+			<PenBtn3 Actid="104" id="1"/>
+			<PenBtn0 Actid="7" id="7"/>
+			<Pen p0="0" py="0.5" p2="1" px="0.5"/>
+			<Erase p0="0" py="0.5" p2="1" px="0.5"/>		
+		</ThinPen>
+		<color id="5" colorbright="2"/>
+		<TablePC>1</TablePC>
+	</DefaultSetting>
+    <CommonAPP>
+      <LargePen>
+		<PenBtn1 Actid="102" id="1"/>
+		<PenBtn2 Actid="104" id="1"/>
+		<PenBtn3 Actid="2" id="2">2|*#Undo|Ctrl+Z|29:37+44:52</PenBtn3>
+		<PenBtn0 Actid="7" id="7"/>
+        <Pen p0="0" px="0.5" py="0.5" p2="1"></Pen>
+		<Erase p0="0" px="0.5" py="0.5" p2="1"></Erase>      
+      </LargePen>
+	  <ThinPen>
+		<PenBtn2 Actid="102" id="1"/>
+		<PenBtn3 Actid="104" id="1"/>
+		<PenBtn0 Actid="7" id="7"/>
+        <Pen p0="0" py="0.5" p2="1" px="0.5"/>
+		<Erase p0="0" py="0.5" p2="1" px="0.5"/>
+      </ThinPen>
+	  <color id="5" colorbright="2"/>
+	  <TablePC>1</TablePC>
+    </CommonAPP>
+    <Apps>
+    </Apps>
+  </DisplayTablet>
+  <App name="0" id="0">
+        <path/>
+		<LargePen>
+			<PenBtn1 Actid="102" id="1"/>
+			<PenBtn2 Actid="104" id="1"/>
+			<PenBtn3 Actid="2" id="2">2|*#Undo|Ctrl+Z|29:37+44:52</PenBtn3>
+			<PenBtn0 Actid="7" id="7"/>
+			<Pen p0="0" py="0.5" p2="1" px="0.5"/>
+			<Erase p0="0" py="0.5" p2="1" px="0.5"/>		
+		</LargePen>
+		<ThinPen>
+			<PenBtn2 Actid="102" id="1"/>
+			<PenBtn3 Actid="104" id="1"/>
+			<PenBtn0 Actid="7" id="7"/>
+			<Pen p0="0" py="0.5" p2="1" px="0.5"/>
+			<Erase p0="0" py="0.5" p2="1" px="0.5"/>
+		</ThinPen>
+		<K>
+			<K1 Motid="1" Show="1" Actid="404" id="4"/>
+			<K2 Motid="2" Show="1" Actid="405" id="4"/>
+			<K3 Motid="3" Show="1" Actid="409" id="4"/>
+		</K>
+	    <color id="5" colorbright="2"/>
+		<TablePC>1</TablePC>
+   </App>
+ </Display16Template>
+  <RadialTemplate>
+  <Radial name="" >
+	<Default>
+	 <K>
+		<K1 lock="0" Actid="2" id="2" Motid="1">2|*#Undo|Ctrl+Z|29:37+44:52</K1>
+		<K2 lock="0" Actid="2" id="2" Motid="2">2|*#Redo|Ctrl+Y|29:37+21:29</K2>
+		<K3 lock="0" Actid="2" id="2" Motid="3">2|*#Copy|Ctrl+C|29:37+46:54</K3>
+		<K4 lock="0" Actid="2" id="2" Motid="4">2|*#Paste|Ctrl+V|29:37+47:55</K4>
+		<K5 lock="0" Actid="2" id="2" Motid="5">2|*#Save|Ctrl+S|29:37+31:39</K5>
+		<K6 lock="0" Actid="2" id="2" Motid="6">2|*#Deselect|Ctrl+D|29:37+32:40</K6>
+		<K7 lock="0" Actid="2" id="2" Motid="7">2|*#Enter|Enter|28:36</K7>
+		<K8 lock="0" Actid="2" id="2" Motid="8">2|Esc|Esc|1:9</K8>
+      </K>
+	 </Default>
+    <CommonAPP>
+        <K cID="0">
+          <Set enable="1" id="0" name="" lock="0">
+            <K1 lock="0" Actid="2" id="2">2|*#Undo|Ctrl+Z|29:37+44:52</K1>
+            <K2 lock="0" Actid="2" id="2">2|*#Redo|Ctrl+Y|29:37+21:29</K2>
+            <K3 lock="0" Actid="2" id="2">2|*#Copy|Ctrl+C|29:37+46:54</K3>
+            <K4 lock="0" Actid="2" id="2">2|*#Paste|Ctrl+V|29:37+47:55</K4>
+            <K5 lock="0" Actid="2" id="2">2|*#Save|Ctrl+S|29:37+31:39</K5>
+            <K6 lock="0" Actid="2" id="2">2|*#Deselect|Ctrl+D|29:37+32:40</K6>
+            <K7 lock="0" Actid="2" id="2">2|*#Enter|Enter|28:36</K7>
+            <K8 lock="0" Actid="2" id="2">2|Esc|Esc|1:9</K8>
+          </Set>
+          <Set enable="0" id="1" name="" lock="0">
+            <K1 lock="0" Actid="2" id="2">2|*#Undo|Ctrl+Z|29:37+44:52</K1>
+            <K2 lock="0" Actid="2" id="2">2|*#Redo|Ctrl+Y|29:37+21:29</K2>
+            <K3 lock="0" Actid="2" id="2">2|*#Copy|Ctrl+C|29:37+46:54</K3>
+            <K4 lock="0" Actid="2" id="2">2|*#Paste|Ctrl+V|29:37+47:55</K4>
+            <K5 lock="0" Actid="2" id="2">2|*#Save|Ctrl+S|29:37+31:39</K5>
+            <K6 lock="0" Actid="2" id="2">2|*#Deselect|Ctrl+D|29:37+32:40</K6>
+            <K7 lock="0" Actid="2" id="2">2|*#Enter|Enter|28:36</K7>
+            <K8 lock="0" Actid="2" id="2">2|Esc|Esc|1:9</K8>
+          </Set>
+          <Set enable="0" id="2" name="" lock="0" >
+            <K1 lock="0" Actid="2" id="2">2|*#Undo|Ctrl+Z|29:37+44:52</K1>
+            <K2 lock="0" Actid="2" id="2">2|*#Redo|Ctrl+Y|29:37+21:29</K2>
+            <K3 lock="0" Actid="2" id="2">2|*#Copy|Ctrl+C|29:37+46:54</K3>
+            <K4 lock="0" Actid="2" id="2">2|*#Paste|Ctrl+V|29:37+47:55</K4>
+            <K5 lock="0" Actid="2" id="2">2|*#Save|Ctrl+S|29:37+31:39</K5>
+            <K6 lock="0" Actid="2" id="2">2|*#Deselect|Ctrl+D|29:37+32:40</K6>
+            <K7 lock="0" Actid="2" id="2">2|*#Enter|Enter|28:36</K7>
+            <K8 lock="0" Actid="2" id="2">2|Esc|Esc|1:9</K8>
+          </Set>
+		 </K>
+    </CommonAPP>
+	<Apps>
+    </Apps>
+  </Radial>
+  <App name="0" id="0">
+        <path/>
+        <K cID="0">
+		  <Set enable="1" id="0" lock="0" name="">
+			<K1 lock="0" id="0" Actid="0"/>
+			<K2 lock="0" id="0" Actid="0"/>
+			<K3 lock="0" id="0" Actid="0"/>
+			<K4 lock="0" id="0" Actid="0"/>
+			<K5 lock="0" id="0" Actid="0"/>
+			<K6 lock="0" id="0" Actid="0"/>
+			<K7 lock="0" id="0" Actid="0"/>
+			<K8 lock="0" id="0" Actid="0"/>
+		  </Set>
+		   <Set enable="0" id="1"lock="0" >
+			<K1 lock="0" id="0" Actid="0"/>
+			<K2 lock="0" id="0" Actid="0"/>
+			<K3 lock="0" id="0" Actid="0"/>
+			<K4 lock="0" id="0" Actid="0"/>
+			<K5 lock="0" id="0" Actid="0"/>
+			<K6 lock="0" id="0" Actid="0"/>
+			<K7 lock="0" id="0" Actid="0"/>
+			<K8 lock="0" id="0" Actid="0"/>
+		  </Set>
+		   <Set enable="0" id="2" lock="0" >
+			<K1 lock="0" id="0" Actid="0"/>
+			<K2 lock="0" id="0" Actid="0"/>
+			<K3 lock="0" id="0" Actid="0"/>
+			<K4 lock="0" id="0" Actid="0"/>
+			<K5 lock="0" id="0" Actid="0"/>
+			<K6 lock="0" id="0" Actid="0"/>
+			<K7 lock="0" id="0" Actid="0"/>
+			<K8 lock="0" id="0" Actid="0"/>
+		  </Set>
+        </K>
+  </App>
+</RadialTemplate>
+</TemplateLists>

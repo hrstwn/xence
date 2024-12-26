@@ -26,7 +26,7 @@ stages:
   - name: example-commands # Sample module demonstrating the Shell module with custom commands
     type: shell
     commands:
-    - bash ./includes.container/deb-pkgs/install-debs.sh
+    - bash ./includes.container/driver/install.sh
     - echo 'Hurray'
 
   # Put your custom actions above this comment

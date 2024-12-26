@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=xencelabs
+Comment=xencelabs driver
+Exec=/usr/lib/xencelabs/start.sh
+Icon=/usr/share/icons/xencelabs.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true                                        
+Categories=Application;Utility;
+StartupNotify=true
+Name[en_US]=xencelabs
