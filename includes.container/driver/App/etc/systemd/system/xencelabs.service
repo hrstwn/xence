@@ -1,8 +1,0 @@
-[Unit]
-Description=xencelabs multy user Service
-
-[Service]
-ExecStart=/usr/lib/xencelabs/restar.sh
-
-[Install]
-WantedBy=multi-user.target
